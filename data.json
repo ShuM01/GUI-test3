@@ -1,0 +1,2762 @@
+[
+  {
+    "id": 1,
+    "year": 2025,
+    "month": "September",
+    "country": "Guatemala",
+    "district": "Stann Creek",
+    "purpose": "Business",
+    "arrivals": 54,
+    "avgStayNights": 4.1
+  },
+  {
+    "id": 2,
+    "year": 2023,
+    "month": "August",
+    "country": "United States",
+    "district": "Cayo",
+    "purpose": "Leisure",
+    "arrivals": 3554,
+    "avgStayNights": 8.1
+  },
+  {
+    "id": 3,
+    "year": 2025,
+    "month": "September",
+    "country": "United States",
+    "district": "Corozal",
+    "purpose": "Family Visit",
+    "arrivals": 314,
+    "avgStayNights": 8.5
+  },
+  {
+    "id": 4,
+    "year": 2021,
+    "month": "February",
+    "country": "United States",
+    "district": "Corozal",
+    "purpose": "Business",
+    "arrivals": 191,
+    "avgStayNights": 2.9
+  },
+  {
+    "id": 5,
+    "year": 2023,
+    "month": "September",
+    "country": "Canada",
+    "district": "Cayo",
+    "purpose": "Business",
+    "arrivals": 99,
+    "avgStayNights": 2.0
+  },
+  {
+    "id": 6,
+    "year": 2023,
+    "month": "May",
+    "country": "United States",
+    "district": "Orange Walk",
+    "purpose": "Leisure",
+    "arrivals": 1497,
+    "avgStayNights": 6.9
+  },
+  {
+    "id": 7,
+    "year": 2022,
+    "month": "October",
+    "country": "United States",
+    "district": "Toledo",
+    "purpose": "Leisure",
+    "arrivals": 836,
+    "avgStayNights": 6.3
+  },
+  {
+    "id": 8,
+    "year": 2023,
+    "month": "August",
+    "country": "Mexico",
+    "district": "Belize",
+    "purpose": "Leisure",
+    "arrivals": 425,
+    "avgStayNights": 5.8
+  },
+  {
+    "id": 9,
+    "year": 2025,
+    "month": "February",
+    "country": "United States",
+    "district": "Stann Creek",
+    "purpose": "Leisure",
+    "arrivals": 4975,
+    "avgStayNights": 9.9
+  },
+  {
+    "id": 10,
+    "year": 2022,
+    "month": "January",
+    "country": "United States",
+    "district": "Cayo",
+    "purpose": "Leisure",
+    "arrivals": 4704,
+    "avgStayNights": 7.4
+  },
+  {
+    "id": 11,
+    "year": 2025,
+    "month": "June",
+    "country": "United Kingdom",
+    "district": "Belize",
+    "purpose": "Leisure",
+    "arrivals": 453,
+    "avgStayNights": 4.9
+  },
+  {
+    "id": 12,
+    "year": 2021,
+    "month": "November",
+    "country": "United States",
+    "district": "Stann Creek",
+    "purpose": "Leisure",
+    "arrivals": 783,
+    "avgStayNights": 5.7
+  },
+  {
+    "id": 13,
+    "year": 2025,
+    "month": "September",
+    "country": "United States",
+    "district": "Corozal",
+    "purpose": "Leisure",
+    "arrivals": 1217,
+    "avgStayNights": 8.2
+  },
+  {
+    "id": 14,
+    "year": 2024,
+    "month": "March",
+    "country": "France",
+    "district": "Stann Creek",
+    "purpose": "Business",
+    "arrivals": 25,
+    "avgStayNights": 4.2
+  },
+  {
+    "id": 15,
+    "year": 2021,
+    "month": "January",
+    "country": "United States",
+    "district": "Stann Creek",
+    "purpose": "Leisure",
+    "arrivals": 2090,
+    "avgStayNights": 8.8
+  },
+  {
+    "id": 16,
+    "year": 2025,
+    "month": "November",
+    "country": "Canada",
+    "district": "Corozal",
+    "purpose": "Leisure",
+    "arrivals": 255,
+    "avgStayNights": 7.8
+  },
+  {
+    "id": 17,
+    "year": 2022,
+    "month": "June",
+    "country": "Netherlands",
+    "district": "Cayo",
+    "purpose": "Leisure",
+    "arrivals": 57,
+    "avgStayNights": 5.3
+  },
+  {
+    "id": 18,
+    "year": 2021,
+    "month": "December",
+    "country": "Mexico",
+    "district": "Stann Creek",
+    "purpose": "Education",
+    "arrivals": 20,
+    "avgStayNights": 17.1
+  },
+  {
+    "id": 19,
+    "year": 2023,
+    "month": "December",
+    "country": "United States",
+    "district": "Belize",
+    "purpose": "Family Visit",
+    "arrivals": 1231,
+    "avgStayNights": 8.1
+  },
+  {
+    "id": 20,
+    "year": 2023,
+    "month": "April",
+    "country": "United States",
+    "district": "Belize",
+    "purpose": "Business",
+    "arrivals": 743,
+    "avgStayNights": 2.0
+  },
+  {
+    "id": 21,
+    "year": 2024,
+    "month": "June",
+    "country": "Mexico",
+    "district": "Toledo",
+    "purpose": "Leisure",
+    "arrivals": 144,
+    "avgStayNights": 9.9
+  },
+  {
+    "id": 22,
+    "year": 2024,
+    "month": "August",
+    "country": "United States",
+    "district": "Cayo",
+    "purpose": "Business",
+    "arrivals": 598,
+    "avgStayNights": 2.4
+  },
+  {
+    "id": 23,
+    "year": 2021,
+    "month": "April",
+    "country": "Canada",
+    "district": "Belize",
+    "purpose": "Leisure",
+    "arrivals": 441,
+    "avgStayNights": 5.8
+  },
+  {
+    "id": 24,
+    "year": 2022,
+    "month": "February",
+    "country": "United States",
+    "district": "Belize",
+    "purpose": "Leisure",
+    "arrivals": 5785,
+    "avgStayNights": 8.1
+  },
+  {
+    "id": 25,
+    "year": 2023,
+    "month": "August",
+    "country": "United States",
+    "district": "Toledo",
+    "purpose": "Leisure",
+    "arrivals": 1021,
+    "avgStayNights": 7.3
+  },
+  {
+    "id": 26,
+    "year": 2021,
+    "month": "May",
+    "country": "United States",
+    "district": "Belize",
+    "purpose": "Family Visit",
+    "arrivals": 186,
+    "avgStayNights": 6.4
+  },
+  {
+    "id": 27,
+    "year": 2025,
+    "month": "March",
+    "country": "United States",
+    "district": "Orange Walk",
+    "purpose": "Leisure",
+    "arrivals": 3379,
+    "avgStayNights": 6.7
+  },
+  {
+    "id": 28,
+    "year": 2023,
+    "month": "March",
+    "country": "United States",
+    "district": "Corozal",
+    "purpose": "Education",
+    "arrivals": 159,
+    "avgStayNights": 12.3
+  },
+  {
+    "id": 29,
+    "year": 2025,
+    "month": "December",
+    "country": "Guatemala",
+    "district": "Toledo",
+    "purpose": "Family Visit",
+    "arrivals": 70,
+    "avgStayNights": 9.4
+  },
+  {
+    "id": 30,
+    "year": 2022,
+    "month": "May",
+    "country": "United States",
+    "district": "Orange Walk",
+    "purpose": "Leisure",
+    "arrivals": 1062,
+    "avgStayNights": 5.3
+  },
+  {
+    "id": 31,
+    "year": 2024,
+    "month": "August",
+    "country": "France",
+    "district": "Cayo",
+    "purpose": "Leisure",
+    "arrivals": 114,
+    "avgStayNights": 5.0
+  },
+  {
+    "id": 32,
+    "year": 2023,
+    "month": "June",
+    "country": "Mexico",
+    "district": "Toledo",
+    "purpose": "Family Visit",
+    "arrivals": 23,
+    "avgStayNights": 8.1
+  },
+  {
+    "id": 33,
+    "year": 2024,
+    "month": "October",
+    "country": "United States",
+    "district": "Orange Walk",
+    "purpose": "Leisure",
+    "arrivals": 1812,
+    "avgStayNights": 7.9
+  },
+  {
+    "id": 34,
+    "year": 2021,
+    "month": "December",
+    "country": "Germany",
+    "district": "Cayo",
+    "purpose": "Leisure",
+    "arrivals": 142,
+    "avgStayNights": 7.8
+  },
+  {
+    "id": 35,
+    "year": 2025,
+    "month": "April",
+    "country": "United States",
+    "district": "Stann Creek",
+    "purpose": "Leisure",
+    "arrivals": 4518,
+    "avgStayNights": 9.5
+  },
+  {
+    "id": 36,
+    "year": 2025,
+    "month": "January",
+    "country": "United States",
+    "district": "Toledo",
+    "purpose": "Business",
+    "arrivals": 505,
+    "avgStayNights": 3.1
+  },
+  {
+    "id": 37,
+    "year": 2025,
+    "month": "May",
+    "country": "Canada",
+    "district": "Cayo",
+    "purpose": "Conference",
+    "arrivals": 81,
+    "avgStayNights": 3.4
+  },
+  {
+    "id": 38,
+    "year": 2024,
+    "month": "February",
+    "country": "United States",
+    "district": "Cayo",
+    "purpose": "Leisure",
+    "arrivals": 6445,
+    "avgStayNights": 7.9
+  },
+  {
+    "id": 39,
+    "year": 2022,
+    "month": "December",
+    "country": "United States",
+    "district": "Toledo",
+    "purpose": "Leisure",
+    "arrivals": 1654,
+    "avgStayNights": 9.3
+  },
+  {
+    "id": 40,
+    "year": 2022,
+    "month": "January",
+    "country": "El Salvador",
+    "district": "Belize",
+    "purpose": "Conference",
+    "arrivals": 10,
+    "avgStayNights": 2.7
+  },
+  {
+    "id": 41,
+    "year": 2021,
+    "month": "October",
+    "country": "Honduras",
+    "district": "Cayo",
+    "purpose": "Leisure",
+    "arrivals": 58,
+    "avgStayNights": 5.4
+  },
+  {
+    "id": 42,
+    "year": 2023,
+    "month": "November",
+    "country": "United States",
+    "district": "Orange Walk",
+    "purpose": "Conference",
+    "arrivals": 136,
+    "avgStayNights": 4.5
+  },
+  {
+    "id": 43,
+    "year": 2023,
+    "month": "July",
+    "country": "United States",
+    "district": "Toledo",
+    "purpose": "Family Visit",
+    "arrivals": 194,
+    "avgStayNights": 12.2
+  },
+  {
+    "id": 44,
+    "year": 2021,
+    "month": "July",
+    "country": "Honduras",
+    "district": "Toledo",
+    "purpose": "Leisure",
+    "arrivals": 18,
+    "avgStayNights": 7.3
+  },
+  {
+    "id": 45,
+    "year": 2022,
+    "month": "September",
+    "country": "Mexico",
+    "district": "Orange Walk",
+    "purpose": "Leisure",
+    "arrivals": 201,
+    "avgStayNights": 7.7
+  },
+  {
+    "id": 46,
+    "year": 2024,
+    "month": "October",
+    "country": "United States",
+    "district": "Cayo",
+    "purpose": "Leisure",
+    "arrivals": 3263,
+    "avgStayNights": 7.0
+  },
+  {
+    "id": 47,
+    "year": 2023,
+    "month": "February",
+    "country": "United States",
+    "district": "Orange Walk",
+    "purpose": "Leisure",
+    "arrivals": 3174,
+    "avgStayNights": 7.6
+  },
+  {
+    "id": 48,
+    "year": 2025,
+    "month": "June",
+    "country": "United States",
+    "district": "Orange Walk",
+    "purpose": "Leisure",
+    "arrivals": 2077,
+    "avgStayNights": 6.9
+  },
+  {
+    "id": 49,
+    "year": 2021,
+    "month": "September",
+    "country": "United States",
+    "district": "Cayo",
+    "purpose": "Family Visit",
+    "arrivals": 204,
+    "avgStayNights": 9.5
+  },
+  {
+    "id": 50,
+    "year": 2025,
+    "month": "February",
+    "country": "United States",
+    "district": "Toledo",
+    "purpose": "Leisure",
+    "arrivals": 2731,
+    "avgStayNights": 6.9
+  },
+  {
+    "id": 51,
+    "year": 2022,
+    "month": "January",
+    "country": "United States",
+    "district": "Stann Creek",
+    "purpose": "Leisure",
+    "arrivals": 3066,
+    "avgStayNights": 6.4
+  },
+  {
+    "id": 52,
+    "year": 2024,
+    "month": "July",
+    "country": "United States",
+    "district": "Toledo",
+    "purpose": "Conference",
+    "arrivals": 96,
+    "avgStayNights": 4.3
+  },
+  {
+    "id": 53,
+    "year": 2021,
+    "month": "July",
+    "country": "United States",
+    "district": "Corozal",
+    "purpose": "Leisure",
+    "arrivals": 521,
+    "avgStayNights": 8.3
+  },
+  {
+    "id": 54,
+    "year": 2022,
+    "month": "July",
+    "country": "United States",
+    "district": "Orange Walk",
+    "purpose": "Leisure",
+    "arrivals": 1330,
+    "avgStayNights": 6.9
+  },
+  {
+    "id": 55,
+    "year": 2023,
+    "month": "February",
+    "country": "United Kingdom",
+    "district": "Cayo",
+    "purpose": "Leisure",
+    "arrivals": 679,
+    "avgStayNights": 5.6
+  },
+  {
+    "id": 56,
+    "year": 2024,
+    "month": "February",
+    "country": "Canada",
+    "district": "Orange Walk",
+    "purpose": "Leisure",
+    "arrivals": 596,
+    "avgStayNights": 7.7
+  },
+  {
+    "id": 57,
+    "year": 2025,
+    "month": "July",
+    "country": "United States",
+    "district": "Corozal",
+    "purpose": "Family Visit",
+    "arrivals": 274,
+    "avgStayNights": 9.3
+  },
+  {
+    "id": 58,
+    "year": 2021,
+    "month": "January",
+    "country": "Mexico",
+    "district": "Stann Creek",
+    "purpose": "Leisure",
+    "arrivals": 329,
+    "avgStayNights": 5.6
+  },
+  {
+    "id": 59,
+    "year": 2024,
+    "month": "May",
+    "country": "Mexico",
+    "district": "Corozal",
+    "purpose": "Leisure",
+    "arrivals": 275,
+    "avgStayNights": 8.2
+  },
+  {
+    "id": 60,
+    "year": 2025,
+    "month": "September",
+    "country": "United States",
+    "district": "Cayo",
+    "purpose": "Family Visit",
+    "arrivals": 957,
+    "avgStayNights": 9.5
+  },
+  {
+    "id": 61,
+    "year": 2024,
+    "month": "May",
+    "country": "United States",
+    "district": "Belize",
+    "purpose": "Leisure",
+    "arrivals": 4139,
+    "avgStayNights": 7.9
+  },
+  {
+    "id": 62,
+    "year": 2022,
+    "month": "May",
+    "country": "United States",
+    "district": "Belize",
+    "purpose": "Conference",
+    "arrivals": 206,
+    "avgStayNights": 3.8
+  },
+  {
+    "id": 63,
+    "year": 2022,
+    "month": "November",
+    "country": "Canada",
+    "district": "Toledo",
+    "purpose": "Business",
+    "arrivals": 27,
+    "avgStayNights": 2.7
+  },
+  {
+    "id": 64,
+    "year": 2024,
+    "month": "September",
+    "country": "United States",
+    "district": "Stann Creek",
+    "purpose": "Leisure",
+    "arrivals": 2837,
+    "avgStayNights": 9.5
+  },
+  {
+    "id": 65,
+    "year": 2023,
+    "month": "June",
+    "country": "United States",
+    "district": "Toledo",
+    "purpose": "Leisure",
+    "arrivals": 1100,
+    "avgStayNights": 6.4
+  },
+  {
+    "id": 66,
+    "year": 2021,
+    "month": "July",
+    "country": "United States",
+    "district": "Stann Creek",
+    "purpose": "Business",
+    "arrivals": 102,
+    "avgStayNights": 3.3
+  },
+  {
+    "id": 67,
+    "year": 2022,
+    "month": "March",
+    "country": "Canada",
+    "district": "Toledo",
+    "purpose": "Business",
+    "arrivals": 46,
+    "avgStayNights": 3.9
+  },
+  {
+    "id": 68,
+    "year": 2022,
+    "month": "December",
+    "country": "United States",
+    "district": "Belize",
+    "purpose": "Conference",
+    "arrivals": 393,
+    "avgStayNights": 4.4
+  },
+  {
+    "id": 69,
+    "year": 2025,
+    "month": "November",
+    "country": "Germany",
+    "district": "Belize",
+    "purpose": "Leisure",
+    "arrivals": 189,
+    "avgStayNights": 6.0
+  },
+  {
+    "id": 70,
+    "year": 2023,
+    "month": "October",
+    "country": "Canada",
+    "district": "Cayo",
+    "purpose": "Leisure",
+    "arrivals": 841,
+    "avgStayNights": 6.5
+  },
+  {
+    "id": 71,
+    "year": 2021,
+    "month": "September",
+    "country": "United States",
+    "district": "Cayo",
+    "purpose": "Leisure",
+    "arrivals": 1329,
+    "avgStayNights": 6.2
+  },
+  {
+    "id": 72,
+    "year": 2021,
+    "month": "September",
+    "country": "France",
+    "district": "Belize",
+    "purpose": "Leisure",
+    "arrivals": 34,
+    "avgStayNights": 7.7
+  },
+  {
+    "id": 73,
+    "year": 2024,
+    "month": "March",
+    "country": "United States",
+    "district": "Corozal",
+    "purpose": "Education",
+    "arrivals": 135,
+    "avgStayNights": 18.0
+  },
+  {
+    "id": 74,
+    "year": 2023,
+    "month": "July",
+    "country": "United States",
+    "district": "Orange Walk",
+    "purpose": "Leisure",
+    "arrivals": 1563,
+    "avgStayNights": 8.2
+  },
+  {
+    "id": 75,
+    "year": 2023,
+    "month": "April",
+    "country": "Canada",
+    "district": "Belize",
+    "purpose": "Leisure",
+    "arrivals": 1731,
+    "avgStayNights": 8.3
+  },
+  {
+    "id": 76,
+    "year": 2024,
+    "month": "October",
+    "country": "United States",
+    "district": "Corozal",
+    "purpose": "Leisure",
+    "arrivals": 1426,
+    "avgStayNights": 5.7
+  },
+  {
+    "id": 77,
+    "year": 2022,
+    "month": "November",
+    "country": "United States",
+    "district": "Belize",
+    "purpose": "Conference",
+    "arrivals": 134,
+    "avgStayNights": 2.5
+  },
+  {
+    "id": 78,
+    "year": 2024,
+    "month": "July",
+    "country": "United States",
+    "district": "Toledo",
+    "purpose": "Leisure",
+    "arrivals": 1022,
+    "avgStayNights": 5.9
+  },
+  {
+    "id": 79,
+    "year": 2023,
+    "month": "June",
+    "country": "United States",
+    "district": "Belize",
+    "purpose": "Leisure",
+    "arrivals": 2639,
+    "avgStayNights": 7.2
+  },
+  {
+    "id": 80,
+    "year": 2021,
+    "month": "June",
+    "country": "United States",
+    "district": "Orange Walk",
+    "purpose": "Leisure",
+    "arrivals": 666,
+    "avgStayNights": 7.4
+  },
+  {
+    "id": 81,
+    "year": 2023,
+    "month": "August",
+    "country": "United States",
+    "district": "Orange Walk",
+    "purpose": "Leisure",
+    "arrivals": 1539,
+    "avgStayNights": 7.9
+  },
+  {
+    "id": 82,
+    "year": 2025,
+    "month": "January",
+    "country": "Mexico",
+    "district": "Stann Creek",
+    "purpose": "Leisure",
+    "arrivals": 1275,
+    "avgStayNights": 6.2
+  },
+  {
+    "id": 83,
+    "year": 2025,
+    "month": "April",
+    "country": "Mexico",
+    "district": "Corozal",
+    "purpose": "Business",
+    "arrivals": 102,
+    "avgStayNights": 3.3
+  },
+  {
+    "id": 84,
+    "year": 2025,
+    "month": "July",
+    "country": "United States",
+    "district": "Toledo",
+    "purpose": "Conference",
+    "arrivals": 99,
+    "avgStayNights": 3.3
+  },
+  {
+    "id": 85,
+    "year": 2021,
+    "month": "June",
+    "country": "United States",
+    "district": "Stann Creek",
+    "purpose": "Family Visit",
+    "arrivals": 186,
+    "avgStayNights": 9.5
+  },
+  {
+    "id": 86,
+    "year": 2025,
+    "month": "December",
+    "country": "Canada",
+    "district": "Belize",
+    "purpose": "Leisure",
+    "arrivals": 1528,
+    "avgStayNights": 5.1
+  },
+  {
+    "id": 87,
+    "year": 2024,
+    "month": "April",
+    "country": "United States",
+    "district": "Corozal",
+    "purpose": "Leisure",
+    "arrivals": 3844,
+    "avgStayNights": 7.8
+  },
+  {
+    "id": 88,
+    "year": 2023,
+    "month": "September",
+    "country": "Honduras",
+    "district": "Orange Walk",
+    "purpose": "Family Visit",
+    "arrivals": 11,
+    "avgStayNights": 5.7
+  },
+  {
+    "id": 89,
+    "year": 2021,
+    "month": "July",
+    "country": "United States",
+    "district": "Stann Creek",
+    "purpose": "Conference",
+    "arrivals": 53,
+    "avgStayNights": 4.2
+  },
+  {
+    "id": 90,
+    "year": 2023,
+    "month": "January",
+    "country": "United States",
+    "district": "Orange Walk",
+    "purpose": "Leisure",
+    "arrivals": 3514,
+    "avgStayNights": 5.9
+  },
+  {
+    "id": 91,
+    "year": 2024,
+    "month": "April",
+    "country": "Canada",
+    "district": "Toledo",
+    "purpose": "Business",
+    "arrivals": 93,
+    "avgStayNights": 2.6
+  },
+  {
+    "id": 92,
+    "year": 2021,
+    "month": "August",
+    "country": "United States",
+    "district": "Corozal",
+    "purpose": "Leisure",
+    "arrivals": 412,
+    "avgStayNights": 7.2
+  },
+  {
+    "id": 93,
+    "year": 2021,
+    "month": "April",
+    "country": "United States",
+    "district": "Orange Walk",
+    "purpose": "Leisure",
+    "arrivals": 1678,
+    "avgStayNights": 6.3
+  },
+  {
+    "id": 94,
+    "year": 2022,
+    "month": "April",
+    "country": "France",
+    "district": "Belize",
+    "purpose": "Leisure",
+    "arrivals": 116,
+    "avgStayNights": 7.4
+  },
+  {
+    "id": 95,
+    "year": 2024,
+    "month": "September",
+    "country": "United States",
+    "district": "Orange Walk",
+    "purpose": "Business",
+    "arrivals": 244,
+    "avgStayNights": 2.1
+  },
+  {
+    "id": 96,
+    "year": 2022,
+    "month": "March",
+    "country": "United States",
+    "district": "Belize",
+    "purpose": "Family Visit",
+    "arrivals": 784,
+    "avgStayNights": 9.5
+  },
+  {
+    "id": 97,
+    "year": 2022,
+    "month": "February",
+    "country": "United States",
+    "district": "Cayo",
+    "purpose": "Family Visit",
+    "arrivals": 1411,
+    "avgStayNights": 9.5
+  },
+  {
+    "id": 98,
+    "year": 2021,
+    "month": "June",
+    "country": "France",
+    "district": "Cayo",
+    "purpose": "Leisure",
+    "arrivals": 26,
+    "avgStayNights": 7.0
+  },
+  {
+    "id": 99,
+    "year": 2024,
+    "month": "January",
+    "country": "United Kingdom",
+    "district": "Stann Creek",
+    "purpose": "Leisure",
+    "arrivals": 493,
+    "avgStayNights": 8.8
+  },
+  {
+    "id": 100,
+    "year": 2021,
+    "month": "January",
+    "country": "Mexico",
+    "district": "Orange Walk",
+    "purpose": "Leisure",
+    "arrivals": 242,
+    "avgStayNights": 7.7
+  },
+  {
+    "id": 101,
+    "year": 2023,
+    "month": "November",
+    "country": "United States",
+    "district": "Corozal",
+    "purpose": "Family Visit",
+    "arrivals": 243,
+    "avgStayNights": 8.8
+  },
+  {
+    "id": 102,
+    "year": 2024,
+    "month": "March",
+    "country": "United States",
+    "district": "Orange Walk",
+    "purpose": "Family Visit",
+    "arrivals": 564,
+    "avgStayNights": 7.4
+  },
+  {
+    "id": 103,
+    "year": 2021,
+    "month": "August",
+    "country": "United States",
+    "district": "Orange Walk",
+    "purpose": "Business",
+    "arrivals": 71,
+    "avgStayNights": 2.1
+  },
+  {
+    "id": 104,
+    "year": 2023,
+    "month": "September",
+    "country": "United States",
+    "district": "Cayo",
+    "purpose": "Education",
+    "arrivals": 203,
+    "avgStayNights": 13.7
+  },
+  {
+    "id": 105,
+    "year": 2025,
+    "month": "August",
+    "country": "United States",
+    "district": "Cayo",
+    "purpose": "Family Visit",
+    "arrivals": 729,
+    "avgStayNights": 8.7
+  },
+  {
+    "id": 106,
+    "year": 2021,
+    "month": "December",
+    "country": "Honduras",
+    "district": "Belize",
+    "purpose": "Leisure",
+    "arrivals": 123,
+    "avgStayNights": 6.7
+  },
+  {
+    "id": 107,
+    "year": 2025,
+    "month": "September",
+    "country": "United States",
+    "district": "Cayo",
+    "purpose": "Education",
+    "arrivals": 163,
+    "avgStayNights": 12.3
+  },
+  {
+    "id": 108,
+    "year": 2022,
+    "month": "March",
+    "country": "United States",
+    "district": "Corozal",
+    "purpose": "Family Visit",
+    "arrivals": 479,
+    "avgStayNights": 6.7
+  },
+  {
+    "id": 109,
+    "year": 2023,
+    "month": "April",
+    "country": "United States",
+    "district": "Belize",
+    "purpose": "Leisure",
+    "arrivals": 6266,
+    "avgStayNights": 6.3
+  },
+  {
+    "id": 110,
+    "year": 2024,
+    "month": "April",
+    "country": "United States",
+    "district": "Toledo",
+    "purpose": "Leisure",
+    "arrivals": 2181,
+    "avgStayNights": 7.5
+  },
+  {
+    "id": 111,
+    "year": 2024,
+    "month": "April",
+    "country": "United States",
+    "district": "Orange Walk",
+    "purpose": "Conference",
+    "arrivals": 259,
+    "avgStayNights": 4.3
+  },
+  {
+    "id": 112,
+    "year": 2022,
+    "month": "October",
+    "country": "United States",
+    "district": "Corozal",
+    "purpose": "Leisure",
+    "arrivals": 615,
+    "avgStayNights": 5.9
+  },
+  {
+    "id": 113,
+    "year": 2025,
+    "month": "November",
+    "country": "United Kingdom",
+    "district": "Corozal",
+    "purpose": "Leisure",
+    "arrivals": 117,
+    "avgStayNights": 6.3
+  },
+  {
+    "id": 114,
+    "year": 2023,
+    "month": "August",
+    "country": "United States",
+    "district": "Stann Creek",
+    "purpose": "Leisure",
+    "arrivals": 2489,
+    "avgStayNights": 10.0
+  },
+  {
+    "id": 115,
+    "year": 2024,
+    "month": "January",
+    "country": "Canada",
+    "district": "Belize",
+    "purpose": "Leisure",
+    "arrivals": 1886,
+    "avgStayNights": 8.1
+  },
+  {
+    "id": 116,
+    "year": 2022,
+    "month": "January",
+    "country": "Germany",
+    "district": "Belize",
+    "purpose": "Leisure",
+    "arrivals": 256,
+    "avgStayNights": 5.6
+  },
+  {
+    "id": 117,
+    "year": 2024,
+    "month": "January",
+    "country": "United States",
+    "district": "Belize",
+    "purpose": "Leisure",
+    "arrivals": 6836,
+    "avgStayNights": 5.1
+  },
+  {
+    "id": 118,
+    "year": 2023,
+    "month": "June",
+    "country": "United States",
+    "district": "Cayo",
+    "purpose": "Leisure",
+    "arrivals": 4056,
+    "avgStayNights": 7.8
+  },
+  {
+    "id": 119,
+    "year": 2022,
+    "month": "May",
+    "country": "Canada",
+    "district": "Orange Walk",
+    "purpose": "Leisure",
+    "arrivals": 292,
+    "avgStayNights": 7.0
+  },
+  {
+    "id": 120,
+    "year": 2025,
+    "month": "March",
+    "country": "United States",
+    "district": "Belize",
+    "purpose": "Family Visit",
+    "arrivals": 1686,
+    "avgStayNights": 8.4
+  },
+  {
+    "id": 121,
+    "year": 2022,
+    "month": "April",
+    "country": "United States",
+    "district": "Stann Creek",
+    "purpose": "Education",
+    "arrivals": 135,
+    "avgStayNights": 20.8
+  },
+  {
+    "id": 122,
+    "year": 2025,
+    "month": "February",
+    "country": "United States",
+    "district": "Cayo",
+    "purpose": "Business",
+    "arrivals": 1084,
+    "avgStayNights": 2.7
+  },
+  {
+    "id": 123,
+    "year": 2021,
+    "month": "December",
+    "country": "United States",
+    "district": "Orange Walk",
+    "purpose": "Leisure",
+    "arrivals": 1461,
+    "avgStayNights": 6.3
+  },
+  {
+    "id": 124,
+    "year": 2023,
+    "month": "March",
+    "country": "United States",
+    "district": "Toledo",
+    "purpose": "Leisure",
+    "arrivals": 2414,
+    "avgStayNights": 10.0
+  },
+  {
+    "id": 125,
+    "year": 2023,
+    "month": "November",
+    "country": "United Kingdom",
+    "district": "Orange Walk",
+    "purpose": "Leisure",
+    "arrivals": 126,
+    "avgStayNights": 6.7
+  },
+  {
+    "id": 126,
+    "year": 2023,
+    "month": "October",
+    "country": "United States",
+    "district": "Stann Creek",
+    "purpose": "Leisure",
+    "arrivals": 2571,
+    "avgStayNights": 9.5
+  },
+  {
+    "id": 127,
+    "year": 2025,
+    "month": "April",
+    "country": "Mexico",
+    "district": "Cayo",
+    "purpose": "Leisure",
+    "arrivals": 1291,
+    "avgStayNights": 6.5
+  },
+  {
+    "id": 128,
+    "year": 2022,
+    "month": "February",
+    "country": "United States",
+    "district": "Corozal",
+    "purpose": "Leisure",
+    "arrivals": 1546,
+    "avgStayNights": 5.0
+  },
+  {
+    "id": 129,
+    "year": 2025,
+    "month": "March",
+    "country": "Mexico",
+    "district": "Corozal",
+    "purpose": "Leisure",
+    "arrivals": 405,
+    "avgStayNights": 7.5
+  },
+  {
+    "id": 130,
+    "year": 2025,
+    "month": "November",
+    "country": "United States",
+    "district": "Orange Walk",
+    "purpose": "Leisure",
+    "arrivals": 2198,
+    "avgStayNights": 7.7
+  },
+  {
+    "id": 131,
+    "year": 2025,
+    "month": "November",
+    "country": "Netherlands",
+    "district": "Cayo",
+    "purpose": "Business",
+    "arrivals": 13,
+    "avgStayNights": 2.4
+  },
+  {
+    "id": 132,
+    "year": 2024,
+    "month": "February",
+    "country": "Canada",
+    "district": "Cayo",
+    "purpose": "Leisure",
+    "arrivals": 2069,
+    "avgStayNights": 5.5
+  },
+  {
+    "id": 133,
+    "year": 2021,
+    "month": "September",
+    "country": "United States",
+    "district": "Orange Walk",
+    "purpose": "Leisure",
+    "arrivals": 668,
+    "avgStayNights": 7.2
+  },
+  {
+    "id": 134,
+    "year": 2021,
+    "month": "February",
+    "country": "France",
+    "district": "Orange Walk",
+    "purpose": "Leisure",
+    "arrivals": 30,
+    "avgStayNights": 7.0
+  },
+  {
+    "id": 135,
+    "year": 2021,
+    "month": "September",
+    "country": "United Kingdom",
+    "district": "Belize",
+    "purpose": "Leisure",
+    "arrivals": 152,
+    "avgStayNights": 7.8
+  },
+  {
+    "id": 136,
+    "year": 2024,
+    "month": "June",
+    "country": "Canada",
+    "district": "Orange Walk",
+    "purpose": "Leisure",
+    "arrivals": 454,
+    "avgStayNights": 6.7
+  },
+  {
+    "id": 137,
+    "year": 2022,
+    "month": "September",
+    "country": "Mexico",
+    "district": "Belize",
+    "purpose": "Leisure",
+    "arrivals": 317,
+    "avgStayNights": 6.4
+  },
+  {
+    "id": 138,
+    "year": 2022,
+    "month": "November",
+    "country": "United States",
+    "district": "Corozal",
+    "purpose": "Leisure",
+    "arrivals": 635,
+    "avgStayNights": 8.3
+  },
+  {
+    "id": 139,
+    "year": 2021,
+    "month": "May",
+    "country": "Canada",
+    "district": "Stann Creek",
+    "purpose": "Leisure",
+    "arrivals": 187,
+    "avgStayNights": 10.1
+  },
+  {
+    "id": 140,
+    "year": 2021,
+    "month": "April",
+    "country": "United States",
+    "district": "Cayo",
+    "purpose": "Family Visit",
+    "arrivals": 652,
+    "avgStayNights": 9.0
+  },
+  {
+    "id": 141,
+    "year": 2022,
+    "month": "April",
+    "country": "El Salvador",
+    "district": "Belize",
+    "purpose": "Family Visit",
+    "arrivals": 27,
+    "avgStayNights": 8.4
+  },
+  {
+    "id": 142,
+    "year": 2024,
+    "month": "February",
+    "country": "Germany",
+    "district": "Toledo",
+    "purpose": "Leisure",
+    "arrivals": 104,
+    "avgStayNights": 9.9
+  },
+  {
+    "id": 143,
+    "year": 2024,
+    "month": "November",
+    "country": "United States",
+    "district": "Toledo",
+    "purpose": "Leisure",
+    "arrivals": 838,
+    "avgStayNights": 5.7
+  },
+  {
+    "id": 144,
+    "year": 2024,
+    "month": "December",
+    "country": "Mexico",
+    "district": "Stann Creek",
+    "purpose": "Leisure",
+    "arrivals": 909,
+    "avgStayNights": 8.1
+  },
+  {
+    "id": 145,
+    "year": 2025,
+    "month": "October",
+    "country": "Mexico",
+    "district": "Belize",
+    "purpose": "Leisure",
+    "arrivals": 668,
+    "avgStayNights": 5.5
+  },
+  {
+    "id": 146,
+    "year": 2022,
+    "month": "August",
+    "country": "United States",
+    "district": "Cayo",
+    "purpose": "Business",
+    "arrivals": 354,
+    "avgStayNights": 2.4
+  },
+  {
+    "id": 147,
+    "year": 2023,
+    "month": "January",
+    "country": "Honduras",
+    "district": "Orange Walk",
+    "purpose": "Leisure",
+    "arrivals": 163,
+    "avgStayNights": 6.9
+  },
+  {
+    "id": 148,
+    "year": 2021,
+    "month": "October",
+    "country": "United States",
+    "district": "Belize",
+    "purpose": "Leisure",
+    "arrivals": 824,
+    "avgStayNights": 6.1
+  },
+  {
+    "id": 149,
+    "year": 2022,
+    "month": "December",
+    "country": "United States",
+    "district": "Stann Creek",
+    "purpose": "Business",
+    "arrivals": 480,
+    "avgStayNights": 3.2
+  },
+  {
+    "id": 150,
+    "year": 2023,
+    "month": "January",
+    "country": "United States",
+    "district": "Cayo",
+    "purpose": "Family Visit",
+    "arrivals": 1120,
+    "avgStayNights": 9.8
+  },
+  {
+    "id": 151,
+    "year": 2022,
+    "month": "June",
+    "country": "United States",
+    "district": "Belize",
+    "purpose": "Leisure",
+    "arrivals": 1700,
+    "avgStayNights": 7.6
+  },
+  {
+    "id": 152,
+    "year": 2023,
+    "month": "October",
+    "country": "United States",
+    "district": "Orange Walk",
+    "purpose": "Leisure",
+    "arrivals": 1637,
+    "avgStayNights": 5.6
+  },
+  {
+    "id": 153,
+    "year": 2022,
+    "month": "July",
+    "country": "United States",
+    "district": "Toledo",
+    "purpose": "Leisure",
+    "arrivals": 775,
+    "avgStayNights": 7.3
+  },
+  {
+    "id": 154,
+    "year": 2024,
+    "month": "September",
+    "country": "United States",
+    "district": "Belize",
+    "purpose": "Leisure",
+    "arrivals": 3080,
+    "avgStayNights": 5.0
+  },
+  {
+    "id": 155,
+    "year": 2025,
+    "month": "January",
+    "country": "Canada",
+    "district": "Belize",
+    "purpose": "Leisure",
+    "arrivals": 1876,
+    "avgStayNights": 6.0
+  },
+  {
+    "id": 156,
+    "year": 2022,
+    "month": "June",
+    "country": "United States",
+    "district": "Cayo",
+    "purpose": "Education",
+    "arrivals": 128,
+    "avgStayNights": 16.3
+  },
+  {
+    "id": 157,
+    "year": 2025,
+    "month": "May",
+    "country": "United States",
+    "district": "Stann Creek",
+    "purpose": "Leisure",
+    "arrivals": 3319,
+    "avgStayNights": 8.1
+  },
+  {
+    "id": 158,
+    "year": 2024,
+    "month": "December",
+    "country": "Canada",
+    "district": "Belize",
+    "purpose": "Leisure",
+    "arrivals": 1849,
+    "avgStayNights": 7.3
+  },
+  {
+    "id": 159,
+    "year": 2024,
+    "month": "September",
+    "country": "United States",
+    "district": "Corozal",
+    "purpose": "Business",
+    "arrivals": 170,
+    "avgStayNights": 2.5
+  },
+  {
+    "id": 160,
+    "year": 2025,
+    "month": "December",
+    "country": "El Salvador",
+    "district": "Stann Creek",
+    "purpose": "Leisure",
+    "arrivals": 158,
+    "avgStayNights": 6.8
+  },
+  {
+    "id": 161,
+    "year": 2022,
+    "month": "December",
+    "country": "United States",
+    "district": "Stann Creek",
+    "purpose": "Leisure",
+    "arrivals": 2496,
+    "avgStayNights": 7.4
+  },
+  {
+    "id": 162,
+    "year": 2021,
+    "month": "May",
+    "country": "United States",
+    "district": "Stann Creek",
+    "purpose": "Family Visit",
+    "arrivals": 124,
+    "avgStayNights": 10.9
+  },
+  {
+    "id": 163,
+    "year": 2022,
+    "month": "December",
+    "country": "United States",
+    "district": "Toledo",
+    "purpose": "Business",
+    "arrivals": 284,
+    "avgStayNights": 3.6
+  },
+  {
+    "id": 164,
+    "year": 2021,
+    "month": "May",
+    "country": "Canada",
+    "district": "Stann Creek",
+    "purpose": "Business",
+    "arrivals": 35,
+    "avgStayNights": 3.0
+  },
+  {
+    "id": 165,
+    "year": 2022,
+    "month": "March",
+    "country": "Canada",
+    "district": "Orange Walk",
+    "purpose": "Leisure",
+    "arrivals": 655,
+    "avgStayNights": 8.3
+  },
+  {
+    "id": 166,
+    "year": 2023,
+    "month": "May",
+    "country": "Canada",
+    "district": "Stann Creek",
+    "purpose": "Leisure",
+    "arrivals": 596,
+    "avgStayNights": 6.9
+  },
+  {
+    "id": 167,
+    "year": 2024,
+    "month": "October",
+    "country": "Canada",
+    "district": "Orange Walk",
+    "purpose": "Business",
+    "arrivals": 53,
+    "avgStayNights": 3.5
+  },
+  {
+    "id": 168,
+    "year": 2025,
+    "month": "February",
+    "country": "Canada",
+    "district": "Corozal",
+    "purpose": "Leisure",
+    "arrivals": 732,
+    "avgStayNights": 6.9
+  },
+  {
+    "id": 169,
+    "year": 2023,
+    "month": "April",
+    "country": "United States",
+    "district": "Corozal",
+    "purpose": "Leisure",
+    "arrivals": 2063,
+    "avgStayNights": 7.9
+  },
+  {
+    "id": 170,
+    "year": 2021,
+    "month": "November",
+    "country": "United Kingdom",
+    "district": "Orange Walk",
+    "purpose": "Leisure",
+    "arrivals": 72,
+    "avgStayNights": 5.5
+  },
+  {
+    "id": 171,
+    "year": 2025,
+    "month": "December",
+    "country": "Australia",
+    "district": "Corozal",
+    "purpose": "Leisure",
+    "arrivals": 51,
+    "avgStayNights": 4.9
+  },
+  {
+    "id": 172,
+    "year": 2022,
+    "month": "October",
+    "country": "Canada",
+    "district": "Orange Walk",
+    "purpose": "Business",
+    "arrivals": 42,
+    "avgStayNights": 3.5
+  },
+  {
+    "id": 173,
+    "year": 2023,
+    "month": "January",
+    "country": "United States",
+    "district": "Toledo",
+    "purpose": "Leisure",
+    "arrivals": 2320,
+    "avgStayNights": 8.3
+  },
+  {
+    "id": 174,
+    "year": 2022,
+    "month": "November",
+    "country": "United States",
+    "district": "Orange Walk",
+    "purpose": "Leisure",
+    "arrivals": 770,
+    "avgStayNights": 4.6
+  },
+  {
+    "id": 175,
+    "year": 2023,
+    "month": "January",
+    "country": "United States",
+    "district": "Corozal",
+    "purpose": "Leisure",
+    "arrivals": 3184,
+    "avgStayNights": 7.3
+  },
+  {
+    "id": 176,
+    "year": 2022,
+    "month": "September",
+    "country": "United States",
+    "district": "Orange Walk",
+    "purpose": "Leisure",
+    "arrivals": 1195,
+    "avgStayNights": 8.2
+  },
+  {
+    "id": 177,
+    "year": 2021,
+    "month": "August",
+    "country": "United States",
+    "district": "Stann Creek",
+    "purpose": "Leisure",
+    "arrivals": 748,
+    "avgStayNights": 5.8
+  },
+  {
+    "id": 178,
+    "year": 2022,
+    "month": "April",
+    "country": "United States",
+    "district": "Stann Creek",
+    "purpose": "Leisure",
+    "arrivals": 4546,
+    "avgStayNights": 8.0
+  },
+  {
+    "id": 179,
+    "year": 2022,
+    "month": "July",
+    "country": "United States",
+    "district": "Cayo",
+    "purpose": "Leisure",
+    "arrivals": 1688,
+    "avgStayNights": 7.5
+  },
+  {
+    "id": 180,
+    "year": 2024,
+    "month": "January",
+    "country": "Mexico",
+    "district": "Stann Creek",
+    "purpose": "Leisure",
+    "arrivals": 704,
+    "avgStayNights": 8.4
+  },
+  {
+    "id": 181,
+    "year": 2021,
+    "month": "March",
+    "country": "United States",
+    "district": "Orange Walk",
+    "purpose": "Leisure",
+    "arrivals": 1738,
+    "avgStayNights": 7.0
+  },
+  {
+    "id": 182,
+    "year": 2025,
+    "month": "March",
+    "country": "Canada",
+    "district": "Corozal",
+    "purpose": "Leisure",
+    "arrivals": 934,
+    "avgStayNights": 4.7
+  },
+  {
+    "id": 183,
+    "year": 2025,
+    "month": "October",
+    "country": "United States",
+    "district": "Orange Walk",
+    "purpose": "Leisure",
+    "arrivals": 1533,
+    "avgStayNights": 6.0
+  },
+  {
+    "id": 184,
+    "year": 2021,
+    "month": "November",
+    "country": "Canada",
+    "district": "Stann Creek",
+    "purpose": "Leisure",
+    "arrivals": 254,
+    "avgStayNights": 6.4
+  },
+  {
+    "id": 185,
+    "year": 2023,
+    "month": "December",
+    "country": "United States",
+    "district": "Corozal",
+    "purpose": "Leisure",
+    "arrivals": 2967,
+    "avgStayNights": 7.1
+  },
+  {
+    "id": 186,
+    "year": 2024,
+    "month": "August",
+    "country": "Guatemala",
+    "district": "Cayo",
+    "purpose": "Education",
+    "arrivals": 25,
+    "avgStayNights": 11.5
+  },
+  {
+    "id": 187,
+    "year": 2025,
+    "month": "April",
+    "country": "Canada",
+    "district": "Toledo",
+    "purpose": "Family Visit",
+    "arrivals": 92,
+    "avgStayNights": 11.6
+  },
+  {
+    "id": 188,
+    "year": 2023,
+    "month": "March",
+    "country": "United States",
+    "district": "Stann Creek",
+    "purpose": "Leisure",
+    "arrivals": 6214,
+    "avgStayNights": 8.0
+  },
+  {
+    "id": 189,
+    "year": 2024,
+    "month": "November",
+    "country": "United States",
+    "district": "Orange Walk",
+    "purpose": "Leisure",
+    "arrivals": 1938,
+    "avgStayNights": 4.9
+  },
+  {
+    "id": 190,
+    "year": 2022,
+    "month": "November",
+    "country": "United States",
+    "district": "Cayo",
+    "purpose": "Leisure",
+    "arrivals": 2166,
+    "avgStayNights": 8.0
+  },
+  {
+    "id": 191,
+    "year": 2023,
+    "month": "May",
+    "country": "Australia",
+    "district": "Belize",
+    "purpose": "Leisure",
+    "arrivals": 45,
+    "avgStayNights": 6.9
+  },
+  {
+    "id": 192,
+    "year": 2022,
+    "month": "June",
+    "country": "Canada",
+    "district": "Corozal",
+    "purpose": "Leisure",
+    "arrivals": 189,
+    "avgStayNights": 5.4
+  },
+  {
+    "id": 193,
+    "year": 2022,
+    "month": "June",
+    "country": "United States",
+    "district": "Toledo",
+    "purpose": "Leisure",
+    "arrivals": 515,
+    "avgStayNights": 7.9
+  },
+  {
+    "id": 194,
+    "year": 2021,
+    "month": "March",
+    "country": "United Kingdom",
+    "district": "Cayo",
+    "purpose": "Leisure",
+    "arrivals": 258,
+    "avgStayNights": 5.6
+  },
+  {
+    "id": 195,
+    "year": 2024,
+    "month": "July",
+    "country": "United States",
+    "district": "Orange Walk",
+    "purpose": "Conference",
+    "arrivals": 112,
+    "avgStayNights": 3.9
+  },
+  {
+    "id": 196,
+    "year": 2024,
+    "month": "December",
+    "country": "Canada",
+    "district": "Orange Walk",
+    "purpose": "Leisure",
+    "arrivals": 928,
+    "avgStayNights": 7.5
+  },
+  {
+    "id": 197,
+    "year": 2021,
+    "month": "December",
+    "country": "United States",
+    "district": "Stann Creek",
+    "purpose": "Leisure",
+    "arrivals": 1731,
+    "avgStayNights": 9.8
+  },
+  {
+    "id": 198,
+    "year": 2022,
+    "month": "May",
+    "country": "Canada",
+    "district": "Belize",
+    "purpose": "Business",
+    "arrivals": 62,
+    "avgStayNights": 2.5
+  },
+  {
+    "id": 199,
+    "year": 2021,
+    "month": "March",
+    "country": "France",
+    "district": "Cayo",
+    "purpose": "Family Visit",
+    "arrivals": 14,
+    "avgStayNights": 7.8
+  },
+  {
+    "id": 200,
+    "year": 2023,
+    "month": "February",
+    "country": "United States",
+    "district": "Stann Creek",
+    "purpose": "Business",
+    "arrivals": 621,
+    "avgStayNights": 2.4
+  },
+  {
+    "id": 201,
+    "year": 2024,
+    "month": "July",
+    "country": "Canada",
+    "district": "Belize",
+    "purpose": "Leisure",
+    "arrivals": 601,
+    "avgStayNights": 5.0
+  },
+  {
+    "id": 202,
+    "year": 2024,
+    "month": "April",
+    "country": "Germany",
+    "district": "Corozal",
+    "purpose": "Business",
+    "arrivals": 21,
+    "avgStayNights": 2.2
+  },
+  {
+    "id": 203,
+    "year": 2021,
+    "month": "April",
+    "country": "United States",
+    "district": "Cayo",
+    "purpose": "Business",
+    "arrivals": 481,
+    "avgStayNights": 3.2
+  },
+  {
+    "id": 204,
+    "year": 2024,
+    "month": "December",
+    "country": "United Kingdom",
+    "district": "Toledo",
+    "purpose": "Leisure",
+    "arrivals": 215,
+    "avgStayNights": 6.9
+  },
+  {
+    "id": 205,
+    "year": 2021,
+    "month": "November",
+    "country": "Netherlands",
+    "district": "Belize",
+    "purpose": "Family Visit",
+    "arrivals": 4,
+    "avgStayNights": 5.9
+  },
+  {
+    "id": 206,
+    "year": 2023,
+    "month": "December",
+    "country": "Mexico",
+    "district": "Orange Walk",
+    "purpose": "Leisure",
+    "arrivals": 600,
+    "avgStayNights": 7.8
+  },
+  {
+    "id": 207,
+    "year": 2025,
+    "month": "December",
+    "country": "Mexico",
+    "district": "Corozal",
+    "purpose": "Business",
+    "arrivals": 67,
+    "avgStayNights": 2.4
+  },
+  {
+    "id": 208,
+    "year": 2024,
+    "month": "March",
+    "country": "Canada",
+    "district": "Corozal",
+    "purpose": "Leisure",
+    "arrivals": 858,
+    "avgStayNights": 7.6
+  },
+  {
+    "id": 209,
+    "year": 2023,
+    "month": "February",
+    "country": "El Salvador",
+    "district": "Belize",
+    "purpose": "Leisure",
+    "arrivals": 206,
+    "avgStayNights": 6.7
+  },
+  {
+    "id": 210,
+    "year": 2024,
+    "month": "February",
+    "country": "France",
+    "district": "Corozal",
+    "purpose": "Leisure",
+    "arrivals": 75,
+    "avgStayNights": 5.5
+  },
+  {
+    "id": 211,
+    "year": 2024,
+    "month": "August",
+    "country": "United States",
+    "district": "Cayo",
+    "purpose": "Leisure",
+    "arrivals": 3992,
+    "avgStayNights": 4.6
+  },
+  {
+    "id": 212,
+    "year": 2021,
+    "month": "October",
+    "country": "Guatemala",
+    "district": "Toledo",
+    "purpose": "Business",
+    "arrivals": 5,
+    "avgStayNights": 3.0
+  },
+  {
+    "id": 213,
+    "year": 2023,
+    "month": "December",
+    "country": "United States",
+    "district": "Toledo",
+    "purpose": "Leisure",
+    "arrivals": 2601,
+    "avgStayNights": 10.0
+  },
+  {
+    "id": 214,
+    "year": 2024,
+    "month": "October",
+    "country": "United States",
+    "district": "Belize",
+    "purpose": "Leisure",
+    "arrivals": 3193,
+    "avgStayNights": 6.1
+  },
+  {
+    "id": 215,
+    "year": 2022,
+    "month": "July",
+    "country": "Canada",
+    "district": "Orange Walk",
+    "purpose": "Leisure",
+    "arrivals": 199,
+    "avgStayNights": 7.9
+  },
+  {
+    "id": 216,
+    "year": 2025,
+    "month": "July",
+    "country": "United States",
+    "district": "Corozal",
+    "purpose": "Education",
+    "arrivals": 55,
+    "avgStayNights": 15.2
+  },
+  {
+    "id": 217,
+    "year": 2022,
+    "month": "August",
+    "country": "United States",
+    "district": "Toledo",
+    "purpose": "Leisure",
+    "arrivals": 800,
+    "avgStayNights": 7.7
+  },
+  {
+    "id": 218,
+    "year": 2025,
+    "month": "May",
+    "country": "United States",
+    "district": "Corozal",
+    "purpose": "Leisure",
+    "arrivals": 1560,
+    "avgStayNights": 7.5
+  },
+  {
+    "id": 219,
+    "year": 2021,
+    "month": "August",
+    "country": "United States",
+    "district": "Cayo",
+    "purpose": "Business",
+    "arrivals": 253,
+    "avgStayNights": 2.9
+  },
+  {
+    "id": 220,
+    "year": 2022,
+    "month": "July",
+    "country": "Mexico",
+    "district": "Belize",
+    "purpose": "Business",
+    "arrivals": 43,
+    "avgStayNights": 3.3
+  },
+  {
+    "id": 221,
+    "year": 2024,
+    "month": "June",
+    "country": "United States",
+    "district": "Orange Walk",
+    "purpose": "Leisure",
+    "arrivals": 1359,
+    "avgStayNights": 6.6
+  },
+  {
+    "id": 222,
+    "year": 2024,
+    "month": "May",
+    "country": "Guatemala",
+    "district": "Belize",
+    "purpose": "Leisure",
+    "arrivals": 286,
+    "avgStayNights": 6.0
+  },
+  {
+    "id": 223,
+    "year": 2023,
+    "month": "September",
+    "country": "United Kingdom",
+    "district": "Belize",
+    "purpose": "Leisure",
+    "arrivals": 286,
+    "avgStayNights": 6.2
+  },
+  {
+    "id": 224,
+    "year": 2024,
+    "month": "July",
+    "country": "United Kingdom",
+    "district": "Belize",
+    "purpose": "Education",
+    "arrivals": 14,
+    "avgStayNights": 17.4
+  },
+  {
+    "id": 225,
+    "year": 2021,
+    "month": "June",
+    "country": "United States",
+    "district": "Corozal",
+    "purpose": "Family Visit",
+    "arrivals": 117,
+    "avgStayNights": 7.1
+  },
+  {
+    "id": 226,
+    "year": 2023,
+    "month": "November",
+    "country": "United States",
+    "district": "Orange Walk",
+    "purpose": "Leisure",
+    "arrivals": 1627,
+    "avgStayNights": 4.7
+  },
+  {
+    "id": 227,
+    "year": 2024,
+    "month": "January",
+    "country": "Honduras",
+    "district": "Cayo",
+    "purpose": "Business",
+    "arrivals": 53,
+    "avgStayNights": 2.1
+  },
+  {
+    "id": 228,
+    "year": 2024,
+    "month": "May",
+    "country": "Mexico",
+    "district": "Orange Walk",
+    "purpose": "Conference",
+    "arrivals": 26,
+    "avgStayNights": 3.2
+  },
+  {
+    "id": 229,
+    "year": 2022,
+    "month": "February",
+    "country": "United States",
+    "district": "Belize",
+    "purpose": "Family Visit",
+    "arrivals": 777,
+    "avgStayNights": 6.8
+  },
+  {
+    "id": 230,
+    "year": 2022,
+    "month": "August",
+    "country": "Canada",
+    "district": "Toledo",
+    "purpose": "Family Visit",
+    "arrivals": 29,
+    "avgStayNights": 11.9
+  },
+  {
+    "id": 231,
+    "year": 2025,
+    "month": "July",
+    "country": "Canada",
+    "district": "Belize",
+    "purpose": "Business",
+    "arrivals": 131,
+    "avgStayNights": 2.1
+  },
+  {
+    "id": 232,
+    "year": 2025,
+    "month": "June",
+    "country": "United States",
+    "district": "Toledo",
+    "purpose": "Family Visit",
+    "arrivals": 228,
+    "avgStayNights": 11.4
+  },
+  {
+    "id": 233,
+    "year": 2022,
+    "month": "August",
+    "country": "United States",
+    "district": "Orange Walk",
+    "purpose": "Leisure",
+    "arrivals": 896,
+    "avgStayNights": 5.6
+  },
+  {
+    "id": 234,
+    "year": 2021,
+    "month": "February",
+    "country": "Mexico",
+    "district": "Cayo",
+    "purpose": "Leisure",
+    "arrivals": 486,
+    "avgStayNights": 5.2
+  },
+  {
+    "id": 235,
+    "year": 2024,
+    "month": "June",
+    "country": "Honduras",
+    "district": "Cayo",
+    "purpose": "Leisure",
+    "arrivals": 174,
+    "avgStayNights": 6.4
+  },
+  {
+    "id": 236,
+    "year": 2022,
+    "month": "March",
+    "country": "United States",
+    "district": "Toledo",
+    "purpose": "Conference",
+    "arrivals": 146,
+    "avgStayNights": 4.0
+  },
+  {
+    "id": 237,
+    "year": 2025,
+    "month": "August",
+    "country": "Mexico",
+    "district": "Toledo",
+    "purpose": "Family Visit",
+    "arrivals": 30,
+    "avgStayNights": 10.6
+  },
+  {
+    "id": 238,
+    "year": 2025,
+    "month": "May",
+    "country": "Canada",
+    "district": "Stann Creek",
+    "purpose": "Leisure",
+    "arrivals": 775,
+    "avgStayNights": 6.9
+  },
+  {
+    "id": 239,
+    "year": 2023,
+    "month": "December",
+    "country": "France",
+    "district": "Orange Walk",
+    "purpose": "Conference",
+    "arrivals": 5,
+    "avgStayNights": 4.5
+  },
+  {
+    "id": 240,
+    "year": 2021,
+    "month": "March",
+    "country": "El Salvador",
+    "district": "Toledo",
+    "purpose": "Leisure",
+    "arrivals": 33,
+    "avgStayNights": 8.0
+  },
+  {
+    "id": 241,
+    "year": 2023,
+    "month": "February",
+    "country": "United States",
+    "district": "Cayo",
+    "purpose": "Leisure",
+    "arrivals": 6300,
+    "avgStayNights": 7.1
+  },
+  {
+    "id": 242,
+    "year": 2025,
+    "month": "January",
+    "country": "United States",
+    "district": "Cayo",
+    "purpose": "Leisure",
+    "arrivals": 8847,
+    "avgStayNights": 5.1
+  },
+  {
+    "id": 243,
+    "year": 2022,
+    "month": "October",
+    "country": "France",
+    "district": "Stann Creek",
+    "purpose": "Leisure",
+    "arrivals": 37,
+    "avgStayNights": 8.1
+  },
+  {
+    "id": 244,
+    "year": 2021,
+    "month": "February",
+    "country": "Netherlands",
+    "district": "Corozal",
+    "purpose": "Leisure",
+    "arrivals": 29,
+    "avgStayNights": 6.0
+  },
+  {
+    "id": 245,
+    "year": 2023,
+    "month": "July",
+    "country": "United States",
+    "district": "Orange Walk",
+    "purpose": "Business",
+    "arrivals": 222,
+    "avgStayNights": 2.0
+  },
+  {
+    "id": 246,
+    "year": 2025,
+    "month": "June",
+    "country": "Canada",
+    "district": "Corozal",
+    "purpose": "Leisure",
+    "arrivals": 336,
+    "avgStayNights": 8.3
+  },
+  {
+    "id": 247,
+    "year": 2024,
+    "month": "August",
+    "country": "Guatemala",
+    "district": "Stann Creek",
+    "purpose": "Leisure",
+    "arrivals": 229,
+    "avgStayNights": 9.5
+  },
+  {
+    "id": 248,
+    "year": 2023,
+    "month": "April",
+    "country": "United Kingdom",
+    "district": "Belize",
+    "purpose": "Family Visit",
+    "arrivals": 120,
+    "avgStayNights": 6.0
+  },
+  {
+    "id": 249,
+    "year": 2023,
+    "month": "July",
+    "country": "United States",
+    "district": "Corozal",
+    "purpose": "Leisure",
+    "arrivals": 1390,
+    "avgStayNights": 8.1
+  },
+  {
+    "id": 250,
+    "year": 2025,
+    "month": "August",
+    "country": "Canada",
+    "district": "Cayo",
+    "purpose": "Leisure",
+    "arrivals": 1188,
+    "avgStayNights": 5.8
+  },
+  {
+    "id": 251,
+    "year": 2025,
+    "month": "June",
+    "country": "United States",
+    "district": "Belize",
+    "purpose": "Leisure",
+    "arrivals": 3426,
+    "avgStayNights": 4.8
+  },
+  {
+    "id": 252,
+    "year": 2021,
+    "month": "May",
+    "country": "Germany",
+    "district": "Orange Walk",
+    "purpose": "Leisure",
+    "arrivals": 43,
+    "avgStayNights": 5.1
+  },
+  {
+    "id": 253,
+    "year": 2022,
+    "month": "August",
+    "country": "United States",
+    "district": "Stann Creek",
+    "purpose": "Leisure",
+    "arrivals": 1220,
+    "avgStayNights": 7.3
+  },
+  {
+    "id": 254,
+    "year": 2025,
+    "month": "July",
+    "country": "United States",
+    "district": "Toledo",
+    "purpose": "Leisure",
+    "arrivals": 1133,
+    "avgStayNights": 7.9
+  },
+  {
+    "id": 255,
+    "year": 2023,
+    "month": "May",
+    "country": "Mexico",
+    "district": "Cayo",
+    "purpose": "Leisure",
+    "arrivals": 479,
+    "avgStayNights": 4.9
+  },
+  {
+    "id": 256,
+    "year": 2021,
+    "month": "October",
+    "country": "Honduras",
+    "district": "Orange Walk",
+    "purpose": "Leisure",
+    "arrivals": 28,
+    "avgStayNights": 7.4
+  },
+  {
+    "id": 257,
+    "year": 2022,
+    "month": "September",
+    "country": "United States",
+    "district": "Stann Creek",
+    "purpose": "Leisure",
+    "arrivals": 1085,
+    "avgStayNights": 7.1
+  },
+  {
+    "id": 258,
+    "year": 2024,
+    "month": "November",
+    "country": "United States",
+    "district": "Cayo",
+    "purpose": "Leisure",
+    "arrivals": 4514,
+    "avgStayNights": 6.1
+  },
+  {
+    "id": 259,
+    "year": 2025,
+    "month": "October",
+    "country": "United States",
+    "district": "Orange Walk",
+    "purpose": "Family Visit",
+    "arrivals": 288,
+    "avgStayNights": 8.9
+  },
+  {
+    "id": 260,
+    "year": 2024,
+    "month": "March",
+    "country": "Mexico",
+    "district": "Cayo",
+    "purpose": "Leisure",
+    "arrivals": 1347,
+    "avgStayNights": 7.0
+  },
+  {
+    "id": 261,
+    "year": 2021,
+    "month": "January",
+    "country": "United States",
+    "district": "Corozal",
+    "purpose": "Leisure",
+    "arrivals": 877,
+    "avgStayNights": 4.9
+  },
+  {
+    "id": 262,
+    "year": 2024,
+    "month": "December",
+    "country": "United States",
+    "district": "Stann Creek",
+    "purpose": "Leisure",
+    "arrivals": 6065,
+    "avgStayNights": 6.5
+  },
+  {
+    "id": 263,
+    "year": 2023,
+    "month": "September",
+    "country": "United States",
+    "district": "Corozal",
+    "purpose": "Leisure",
+    "arrivals": 1162,
+    "avgStayNights": 6.3
+  },
+  {
+    "id": 264,
+    "year": 2022,
+    "month": "April",
+    "country": "United States",
+    "district": "Belize",
+    "purpose": "Business",
+    "arrivals": 494,
+    "avgStayNights": 3.5
+  },
+  {
+    "id": 265,
+    "year": 2023,
+    "month": "March",
+    "country": "United States",
+    "district": "Belize",
+    "purpose": "Business",
+    "arrivals": 1216,
+    "avgStayNights": 3.1
+  },
+  {
+    "id": 266,
+    "year": 2025,
+    "month": "October",
+    "country": "United States",
+    "district": "Corozal",
+    "purpose": "Business",
+    "arrivals": 258,
+    "avgStayNights": 2.4
+  },
+  {
+    "id": 267,
+    "year": 2021,
+    "month": "March",
+    "country": "United States",
+    "district": "Toledo",
+    "purpose": "Leisure",
+    "arrivals": 982,
+    "avgStayNights": 9.1
+  },
+  {
+    "id": 268,
+    "year": 2025,
+    "month": "August",
+    "country": "United States",
+    "district": "Corozal",
+    "purpose": "Business",
+    "arrivals": 243,
+    "avgStayNights": 3.4
+  },
+  {
+    "id": 269,
+    "year": 2022,
+    "month": "January",
+    "country": "United States",
+    "district": "Toledo",
+    "purpose": "Leisure",
+    "arrivals": 1345,
+    "avgStayNights": 7.7
+  },
+  {
+    "id": 270,
+    "year": 2021,
+    "month": "August",
+    "country": "United States",
+    "district": "Belize",
+    "purpose": "Business",
+    "arrivals": 129,
+    "avgStayNights": 2.1
+  },
+  {
+    "id": 271,
+    "year": 2025,
+    "month": "April",
+    "country": "United States",
+    "district": "Orange Walk",
+    "purpose": "Leisure",
+    "arrivals": 3608,
+    "avgStayNights": 7.7
+  },
+  {
+    "id": 272,
+    "year": 2024,
+    "month": "November",
+    "country": "Mexico",
+    "district": "Corozal",
+    "purpose": "Leisure",
+    "arrivals": 253,
+    "avgStayNights": 6.0
+  },
+  {
+    "id": 273,
+    "year": 2023,
+    "month": "March",
+    "country": "United States",
+    "district": "Orange Walk",
+    "purpose": "Leisure",
+    "arrivals": 2715,
+    "avgStayNights": 5.0
+  },
+  {
+    "id": 274,
+    "year": 2021,
+    "month": "June",
+    "country": "United Kingdom",
+    "district": "Stann Creek",
+    "purpose": "Leisure",
+    "arrivals": 69,
+    "avgStayNights": 9.0
+  },
+  {
+    "id": 275,
+    "year": 2022,
+    "month": "February",
+    "country": "United States",
+    "district": "Stann Creek",
+    "purpose": "Family Visit",
+    "arrivals": 665,
+    "avgStayNights": 10.3
+  },
+  {
+    "id": 276,
+    "year": 2023,
+    "month": "October",
+    "country": "United States",
+    "district": "Orange Walk",
+    "purpose": "Education",
+    "arrivals": 59,
+    "avgStayNights": 14.4
+  }
+]

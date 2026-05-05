@@ -1,0 +1,474 @@
+/* ==========================================================================
+   Belize Tourism Arrivals — Styles
+   Aesthetic: editorial data product, sand + forest green + warm accents.
+   Verified renderable — no all:unset, no position overrides, no 3D.
+   Students: do not modify this file. Focus on the JS layers.
+   ========================================================================== */
+
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;600&display=swap');
+
+/* ---------- Design tokens ---------- */
+:root {
+  --bg:           #f5f1e8;
+  --surface:      #ffffff;
+  --surface-alt:  #faf6ed;
+  --border:       #e0dacb;
+  --border-soft:  #ece6d5;
+
+  --ink:          #1a2621;
+  --ink-soft:     #4a5a52;
+  --ink-mute:     #7e8b83;
+
+  --forest:       #2d5a3d;
+  --forest-dark:  #1f4229;
+  --forest-light: #4a7a5a;
+
+  --amber:        #c97a2e;
+  --amber-soft:   #f0d9b8;
+
+  --row-hover:    #fbf7ee;
+
+  --shadow-sm: 0 1px 2px rgba(26, 38, 33, 0.06);
+  --shadow-md: 0 4px 12px rgba(26, 38, 33, 0.08);
+
+  --radius-sm: 4px;
+  --radius-md: 8px;
+
+  --font-display: 'DM Serif Display', Georgia, serif;
+  --font-body:    'Inter', system-ui, sans-serif;
+  --font-mono:    'JetBrains Mono', ui-monospace, monospace;
+}
+
+/* ---------- Reset ---------- */
+*, *::before, *::after { box-sizing: border-box; }
+html, body { margin: 0; padding: 0; }
+button { font: inherit; cursor: pointer; }
+input, select { font: inherit; }
+
+/* ---------- Page shell ---------- */
+body {
+  min-height: 100vh;
+  font-family: var(--font-body);
+  color: var(--ink);
+  background: var(--bg);
+  padding: 2rem 1.5rem;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* ---------- Header ---------- */
+.app-header {
+  max-width: 1200px;
+  margin: 0 auto 2rem;
+  text-align: left;
+  border-bottom: 1px solid var(--border);
+  padding-bottom: 1.5rem;
+}
+
+.app-title {
+  font-family: var(--font-display);
+  font-weight: 400;
+  font-size: clamp(2rem, 4vw, 2.8rem);
+  margin: 0 0 0.3rem;
+  color: var(--forest-dark);
+  letter-spacing: -0.01em;
+}
+
+.app-title .accent {
+  color: var(--amber);
+  font-style: italic;
+}
+
+.app-subtitle {
+  margin: 0;
+  color: var(--ink-soft);
+  font-size: 1rem;
+}
+
+/* ---------- Main layout ---------- */
+.app-main {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+/* ---------- Controls ---------- */
+.controls {
+  display: grid;
+  grid-template-columns: 2fr 1fr 1fr 1fr auto;
+  gap: 1rem;
+  padding: 1.25rem;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-md);
+  box-shadow: var(--shadow-sm);
+  align-items: end;
+}
+
+.control {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+}
+
+.control label {
+  font-family: var(--font-mono);
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--ink-mute);
+  font-weight: 600;
+}
+
+.control input,
+.control select {
+  appearance: none;
+  -webkit-appearance: none;
+  background: var(--surface-alt);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  padding: 0.55rem 0.75rem;
+  color: var(--ink);
+  font-size: 0.95rem;
+  transition: border-color 0.15s ease, background 0.15s ease;
+}
+
+.control select {
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8' viewBox='0 0 12 8'%3E%3Cpath fill='%234a5a52' d='M6 8L0 0h12z'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: right 0.75rem center;
+  padding-right: 2rem;
+}
+
+.control input:focus,
+.control select:focus {
+  outline: none;
+  border-color: var(--forest);
+  background: var(--surface);
+}
+
+.btn-reset {
+  background: var(--forest);
+  color: var(--surface);
+  border: 1px solid var(--forest-dark);
+  border-radius: var(--radius-sm);
+  padding: 0.6rem 1.2rem;
+  font-weight: 500;
+  font-size: 0.9rem;
+  transition: background 0.15s ease;
+  height: fit-content;
+}
+
+.btn-reset:hover { background: var(--forest-dark); }
+.btn-reset:focus-visible {
+  outline: 3px solid var(--amber);
+  outline-offset: 2px;
+}
+
+/* ---------- Status bar ---------- */
+.status-bar {
+  padding: 0.5rem 1rem;
+  background: var(--surface-alt);
+  border: 1px solid var(--border-soft);
+  border-radius: var(--radius-sm);
+  font-family: var(--font-mono);
+  font-size: 0.85rem;
+  color: var(--ink-soft);
+}
+
+.status-bar.is-error {
+  background: #fdf0ec;
+  border-color: #e8b5a4;
+  color: #8c3a1e;
+}
+
+/* ---------- Table ---------- */
+.table-wrap {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-md);
+  box-shadow: var(--shadow-sm);
+  overflow: hidden;
+}
+
+.data-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.92rem;
+}
+
+.data-table thead {
+  background: var(--surface-alt);
+  border-bottom: 2px solid var(--border);
+}
+
+.data-table th {
+  text-align: left;
+  padding: 0.85rem 1rem;
+  font-weight: 600;
+  color: var(--ink);
+  user-select: none;
+  position: relative;
+  font-family: var(--font-mono);
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+
+.data-table th[data-sort-column] {
+  cursor: pointer;
+  transition: background 0.15s ease;
+}
+
+.data-table th[data-sort-column]:hover {
+  background: var(--amber-soft);
+}
+
+/* Sort indicator — UI toggles .is-sort-asc or .is-sort-desc on the header */
+.data-table th.is-sort-asc::after,
+.data-table th.is-sort-desc::after {
+  content: '';
+  display: inline-block;
+  margin-left: 0.4rem;
+  border: 4px solid transparent;
+  vertical-align: middle;
+  position: relative;
+  top: -1px;
+}
+
+.data-table th.is-sort-asc::after {
+  border-bottom-color: var(--forest);
+  top: -3px;
+}
+
+.data-table th.is-sort-desc::after {
+  border-top-color: var(--forest);
+  top: 2px;
+}
+
+.data-table th.num { text-align: right; }
+.data-table td.num {
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+  font-family: var(--font-mono);
+  font-size: 0.88rem;
+}
+
+.data-table tbody tr {
+  border-bottom: 1px solid var(--border-soft);
+  transition: background 0.1s ease;
+}
+
+.data-table tbody tr:last-child { border-bottom: none; }
+
+.data-table tbody tr:hover {
+  background: var(--row-hover);
+}
+
+.data-table td {
+  padding: 0.7rem 1rem;
+  color: var(--ink);
+}
+
+.data-table .empty-row td {
+  text-align: center;
+  padding: 3rem 1rem;
+  color: var(--ink-mute);
+  font-style: italic;
+}
+
+/* Purpose badge */
+.purpose-badge {
+  display: inline-block;
+  padding: 0.15rem 0.55rem;
+  font-size: 0.78rem;
+  border-radius: 999px;
+  font-weight: 500;
+  background: var(--border-soft);
+  color: var(--ink-soft);
+}
+
+/* ---------- Pagination ---------- */
+.pagination {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  padding: 0.5rem;
+}
+
+.pagination button {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  width: 2.25rem;
+  height: 2.25rem;
+  font-size: 1rem;
+  color: var(--ink);
+  transition: background 0.15s ease, color 0.15s ease;
+}
+
+.pagination button:hover:not(:disabled) {
+  background: var(--forest);
+  color: var(--surface);
+  border-color: var(--forest);
+}
+
+.pagination button:disabled {
+  opacity: 0.4;
+  cursor: not-allowed;
+}
+
+.pagination .page-info {
+  margin: 0 0.75rem;
+  font-family: var(--font-mono);
+  font-size: 0.85rem;
+  color: var(--ink-soft);
+  min-width: 8rem;
+  text-align: center;
+}
+
+/* ---------- Footer ---------- */
+.app-footer {
+  max-width: 1200px;
+  margin: 3rem auto 0;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--border);
+  color: var(--ink-mute);
+  font-family: var(--font-mono);
+  font-size: 0.75rem;
+  text-align: center;
+}
+
+/* ---------- Row Detail Modal (Extra Credit) ---------- */
+.row-detail {
+  position: fixed;
+  inset: 0;
+  background: rgba(26, 38, 33, 0.55);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.2s ease;
+  backdrop-filter: blur(4px);
+  z-index: 100;
+  padding: 1rem;
+}
+
+.row-detail.is-visible {
+  opacity: 1;
+  pointer-events: auto;
+}
+
+.row-detail-panel {
+  background: var(--surface);
+  border-radius: var(--radius-md);
+  box-shadow: var(--shadow-md);
+  max-width: 480px;
+  width: 100%;
+  max-height: calc(100vh - 4rem);
+  overflow-y: auto;
+  animation: row-detail-rise 0.25s cubic-bezier(0.2, 0.8, 0.2, 1);
+}
+
+@keyframes row-detail-rise {
+  from { transform: translateY(12px); opacity: 0; }
+  to   { transform: translateY(0);    opacity: 1; }
+}
+
+.row-detail-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 1.25rem;
+  border-bottom: 1px solid var(--border);
+  background: var(--surface-alt);
+  border-radius: var(--radius-md) var(--radius-md) 0 0;
+}
+
+.row-detail-header h2 {
+  font-family: var(--font-display);
+  font-weight: 400;
+  font-size: 1.3rem;
+  color: var(--forest-dark);
+  margin: 0;
+}
+
+.row-detail-close {
+  background: none;
+  border: none;
+  font-size: 1.8rem;
+  line-height: 1;
+  color: var(--ink-soft);
+  padding: 0 0.25rem;
+  border-radius: var(--radius-sm);
+  transition: background 0.15s ease;
+}
+
+.row-detail-close:hover {
+  background: var(--border-soft);
+  color: var(--ink);
+}
+
+.row-detail-close:focus-visible {
+  outline: 3px solid var(--amber);
+  outline-offset: 2px;
+}
+
+.row-detail-body {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: 0.5rem 1.5rem;
+  padding: 1.25rem;
+  margin: 0;
+}
+
+.row-detail-body dt {
+  font-family: var(--font-mono);
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--ink-mute);
+  font-weight: 600;
+  align-self: center;
+}
+
+.row-detail-body dd {
+  margin: 0;
+  color: var(--ink);
+  font-size: 0.95rem;
+  font-weight: 500;
+}
+
+/* Highlight the selected row in the table */
+.data-table tbody tr.is-selected {
+  background: var(--amber-soft);
+}
+
+.data-table tbody tr.is-selected:hover {
+  background: var(--amber-soft);
+}
+
+/* ---------- Responsive ---------- */
+@media (max-width: 900px) {
+  .controls {
+    grid-template-columns: 1fr 1fr;
+  }
+  .btn-reset {
+    grid-column: 1 / -1;
+  }
+  .data-table th,
+  .data-table td {
+    padding: 0.6rem 0.5rem;
+    font-size: 0.85rem;
+  }
+}
+
+@media (max-width: 540px) {
+  body { padding: 1rem 0.5rem; }
+  .controls { grid-template-columns: 1fr; }
+  .table-wrap { overflow-x: auto; }
+  .data-table { min-width: 600px; }
+}

@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Belize Tourism Arrivals — CMPS2212</title>
+  <link rel="stylesheet" href="styles.css" />
+  <script type="module" src="js/main.js"></script>
+</head>
+<body>
+  <header class="app-header">
+    <h1 class="app-title">Belize <span class="accent">Tourism</span> Arrivals</h1>
+    <p class="app-subtitle">Visitor arrivals by country, district, and purpose (2021–2025).</p>
+  </header>
+
+  <main class="app-main">
+    <!--
+      CONTROLS PANEL
+      The UI layer wires these inputs to the DataService. Every change
+      to any control triggers a single `view:changed` event from the
+      service. The UI never filters the data itself.
+    -->
+    <section class="controls" aria-label="Table controls">
+      <div class="control">
+        <label for="search">Search country</label>
+        <input
+          type="search"
+          id="search"
+          data-role="search"
+          placeholder="e.g. United States"
+          autocomplete="off"
+        />
+      </div>
+
+      <div class="control">
+        <label for="filter-district">District</label>
+        <select id="filter-district" data-role="filter-district">
+          <option value="">All districts</option>
+          <option value="Belize">Belize</option>
+          <option value="Cayo">Cayo</option>
+          <option value="Corozal">Corozal</option>
+          <option value="Orange Walk">Orange Walk</option>
+          <option value="Stann Creek">Stann Creek</option>
+          <option value="Toledo">Toledo</option>
+        </select>
+      </div>
+
+      <div class="control">
+        <label for="filter-purpose">Purpose</label>
+        <select id="filter-purpose" data-role="filter-purpose">
+          <option value="">All purposes</option>
+          <option value="Leisure">Leisure</option>
+          <option value="Business">Business</option>
+          <option value="Family Visit">Family Visit</option>
+          <option value="Conference">Conference</option>
+          <option value="Education">Education</option>
+        </select>
+      </div>
+
+      <div class="control">
+        <label for="filter-year">Year</label>
+        <select id="filter-year" data-role="filter-year">
+          <option value="">All years</option>
+          <option value="2021">2021</option>
+          <option value="2022">2022</option>
+          <option value="2023">2023</option>
+          <option value="2024">2024</option>
+          <option value="2025">2025</option>
+        </select>
+      </div>
+
+      <button type="button" class="btn-reset" data-role="reset">Reset</button>
+    </section>
+
+    <!-- Status bar — rendered by UI from view:changed payload -->
+    <div class="status-bar" data-role="status">
+      <span data-role="status-text">Loading…</span>
+    </div>
+
+    <!--
+      TABLE
+      Headers with data-sort-column are clickable to toggle sorting.
+      The tbody is populated by the UI layer on each view:changed event.
+    -->
+    <section class="table-wrap">
+      <table class="data-table">
+        <thead>
+          <tr>
+            <th data-sort-column="year"         data-role="sort-header">Year</th>
+            <th data-sort-column="month"        data-role="sort-header">Month</th>
+            <th data-sort-column="country"      data-role="sort-header">Country</th>
+            <th data-sort-column="district"     data-role="sort-header">District</th>
+            <th data-sort-column="purpose"      data-role="sort-header">Purpose</th>
+            <th data-sort-column="arrivals"     data-role="sort-header" class="num">Arrivals</th>
+            <th data-sort-column="avgStayNights" data-role="sort-header" class="num">Avg Stay (nights)</th>
+          </tr>
+        </thead>
+        <tbody data-role="tbody">
+          <!-- UI layer populates rows here -->
+        </tbody>
+      </table>
+    </section>
+
+    <!-- PAGINATION — UI layer renders current page info and enables/disables nav -->
+    <nav class="pagination" aria-label="Pagination" data-role="pagination">
+      <button type="button" data-role="page-first"  aria-label="First page">«</button>
+      <button type="button" data-role="page-prev"   aria-label="Previous page">‹</button>
+      <span class="page-info" data-role="page-info">Page 1 of 1</span>
+      <button type="button" data-role="page-next"   aria-label="Next page">›</button>
+      <button type="button" data-role="page-last"   aria-label="Last page">»</button>
+    </nav>
+
+    <!--
+      EXTRA CREDIT: Row detail modal.
+      Hidden by default. UI layer toggles .is-visible on 'row:selected'
+      and removes it on 'row:deselected'. Populates the fields below
+      from the row payload.
+
+      Keep this markup even if you do not implement extra credit —
+      removing it is a layer violation (the markup is shared
+      infrastructure, not UI logic).
+    -->
+    <div
+      class="row-detail"
+      data-role="row-detail"
+      role="dialog"
+      aria-modal="true"
+      aria-labelledby="detail-title"
+      aria-hidden="true"
+    >
+      <div class="row-detail-panel">
+        <header class="row-detail-header">
+          <h2 id="detail-title">Arrival Details</h2>
+          <button
+            type="button"
+            class="row-detail-close"
+            data-role="detail-close"
+            aria-label="Close details"
+          >×</button>
+        </header>
+        <dl class="row-detail-body">
+          <dt>Year</dt>          <dd data-role="detail-year"></dd>
+          <dt>Month</dt>         <dd data-role="detail-month"></dd>
+          <dt>Country</dt>       <dd data-role="detail-country"></dd>
+          <dt>District</dt>      <dd data-role="detail-district"></dd>
+          <dt>Purpose</dt>       <dd data-role="detail-purpose"></dd>
+          <dt>Arrivals</dt>      <dd data-role="detail-arrivals"></dd>
+          <dt>Avg Stay</dt>      <dd data-role="detail-stay"></dd>
+          <dt>Record ID</dt>     <dd data-role="detail-id"></dd>
+        </dl>
+      </div>
+    </div>
+  </main>
+
+  <footer class="app-footer">
+    <small>CMPS2212 · University of Belize · Observer Pattern Final Project</small>
+  </footer>
+
+ 
+</body>
+</html>
