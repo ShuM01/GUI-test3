@@ -128,7 +128,7 @@ export function createDataService(eventBus, dataUrl) {
         page: 1,
         pageSize: PAGE_SIZE,
       },
-      selectedRowId: null, // used only by extra-credit row detail feature
+      selectedRowId: null,
     };
   }
 
